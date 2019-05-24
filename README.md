@@ -1,3 +1,4 @@
+An application to keep track of your users and authenticate them on the go with ease and time saving use of fingerprint sensor.this is an application to authenticate you to the next level of authenticeation with biometric sensor.
 # Fingeprint-profiling
 Fingerprint scanning on the go to ease your authentication and in addition used to save your time.Instead of creating a traditional image of a fingerprint, capacitive fingerprint scanners use arrays tiny capacitor circuits to collect data about a fingerprint. As capacitors can store electrical charge, connecting them up to conductive plates on the surface of the scanner allows them to be used to track the details of a fingerprint.
 
